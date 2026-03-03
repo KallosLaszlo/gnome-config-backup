@@ -1,0 +1,17 @@
+# Backup data (don't commit actual backups to repo!)
+# The default backup dir is ~/.local/share/gnome-cfg-exporter/
+# so it won't be in the repo by default, but just in case:
+backups/
+*.bak
+
+# Logs
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
