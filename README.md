@@ -40,7 +40,7 @@ One command to back up **every** aspect of your GNOME configuration. One command
 No installation needed. It's a single script.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gnome-config-backup.git
+git clone https://github.com/KallosLaszlo/gnome-config-backup.git
 cd gnome-config-backup
 chmod +x gnome-cfg-exporter.sh
 ```
