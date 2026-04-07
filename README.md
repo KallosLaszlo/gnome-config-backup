@@ -174,3 +174,9 @@ A: Depends on your themes, icons, and fonts. A typical backup is 100MB–3GB. Th
 ## Contributing
 
 Issues and pull requests are welcome. If you find a GNOME configuration source that isn't backed up, please open an issue.
+
+## Support the Project
+
+If you find this tool useful and want to support its further development, feel free to buy me a coffee!
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-F16061?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/laszlokallos)
