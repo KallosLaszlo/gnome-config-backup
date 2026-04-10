@@ -7,6 +7,7 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Shell: Bash](https://img.shields.io/badge/shell-bash-green.svg)
 ![Platform: Linux](https://img.shields.io/badge/platform-linux-lightgrey.svg)
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/laszlokallos)
 
 ---
 
