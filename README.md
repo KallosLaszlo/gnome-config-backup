@@ -1,5 +1,7 @@
 # GNOME Config Exporter
 
+> **🖥️ Looking for a GUI?** Check out [GNOME Config Exporter GUI](https://github.com/KallosLaszlo/gnome-cfg-exporter-GUI) — a desktop app with a Timeshift-like interface, built with Go + Wails + Svelte. Same features, no terminal needed.
+
 **Full GNOME desktop configuration backup & restore tool** — a single Bash script that saves _everything_ about your GNOME setup so you can restore it after a clean install, distro-hop, or broken update.
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
